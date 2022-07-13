@@ -1,0 +1,18 @@
+#lyt{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-dark{
+	background-color: dodgerblue;
+}
+h1{
+    font-style: italic;
+}
+
+.mt-50{
+	margin-top: 50px;
+}
+#canvas{
+    border: 2px solid black;
+}
